@@ -5,7 +5,7 @@ import InvoiceForm from "./components/InvoiceForm";
 
 const App = () => {
   return (
-    <div className="App d-flex flex-column align-items-center justify-content-center w-100">
+    <div className="App d-flex flex-column align-items-center justify-content-center w-100 h-100 p-3">
       <Container>
         <InvoiceForm />
       </Container>
